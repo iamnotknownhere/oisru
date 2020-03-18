@@ -6,7 +6,7 @@ The goal of the Open Information Security Risk Uinverse (OISRU) is to provide a 
 
 This framework should be complementary to the Basel II operational risk event types, recognising that information security risk permeates operational risk.
 
-## Risk Statements
+## Risk Statements <-- Risk Scenario
 
 It’s key to understand that a risk event alone is not a risk, at it's most simple it is a risk event and a consequence.
 
