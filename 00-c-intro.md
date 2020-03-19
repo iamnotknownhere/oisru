@@ -16,11 +16,11 @@ While the description of the risk scenario under consideration can be tailored t
 
 At it's simplest a risk scenario can be truned into a risk statement using:
 
-There is a risk that \<**event**> occurs leading to \<**outcome**> that causes \<**consequence**>.
+There is a risk that \<**event**> occurs leading to \<**outcome**> that causes \<**consequence**>.  (Alt <Risk Scenario> = <threat actor> <threat vector/action> <compromise> <impact/consequence>)
 
 An example of a minimal risk structured as above is:
 
-“*There is a risk that financially sensitive data is accidentally emailed to an external recipient leading to an information breach which results in regulatory fines.*”
+“*There is a risk that financially sensitive data is accidentally emailed to an external recipient leading to an information breach which results in regulatory fines.*”   (Alt <Risk Scenario> = <Third Perty Supplier employee> <misuses/abuses their entitlements> <to compromisee the integrity of the algo trading algorithm> <resulting in direct financial loss of £100K, £25K response cost, £50K replacemnt cost, etc.>)
 
 Adding a source to the risk can aid in explaining the sceanrio such as:
 
